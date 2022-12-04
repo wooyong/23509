@@ -1,7 +1,7 @@
-"country","year","applepay","propsmall","age"
-"Australia",2014,0,29,34
-"Australia",2015,1,33,34
-"New Zealand",2014,0,23,38
-"New Zealand",2015,0,26,38
-"Singapore",2014,0,30,31
-"Singapore",2015,0,32,31
+"state","year","ban","consumption","age"
+"South Australia",2006,0,29,34
+"South Australia",2011,1,24,34
+"Queensland",2006,0,35,38
+"Queensland",2011,0,32,38
+"Western Australia",2006,0,28,31
+"Western Australia",2011,0,26,31
